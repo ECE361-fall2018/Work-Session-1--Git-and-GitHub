@@ -5,7 +5,7 @@
 2. Go to (https://www.pottermore.com/news/discover-your-hogwarts-house-on-pottermore)
 and select your favorite Hogwarts house. Paste the Sorting Hat verse for that house into your readme.md file. add and commit.
 
-3. Create a new branch called 2ndfavoriteand switch to it
+3. Create a new branch called 2ndfavorite and switch to it
   - git branch 2ndfavorite
   - git checkout 2ndfavorite
   - Note: you can combine the commands with git checkout –b 2ndfavorite
