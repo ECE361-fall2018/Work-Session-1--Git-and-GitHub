@@ -9,7 +9,8 @@ After this work session students should know how to:
 * create and manage a local repository
 
 
-* use network transactions (Fetch, Pull, Push) to transfer local repositories to/from GitHub
+* use network transactions (Fetch, Pull, Push) to transfer local repositories
+to/from GitHub
 
 
 * create branches
